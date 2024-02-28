@@ -1,0 +1,1 @@
+[20-Nov-2023 12:25:36 Asia/Karachi] PHP Fatal error:  Cannot use App\Models\certificate as certificate because the name is already in use in /home/dassmis/sgdcity-api.dassmis.com/app/Http/Controllers/Api/FeesChallanVoucherController.php on line 14
